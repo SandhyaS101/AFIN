@@ -9,3 +9,4 @@ In the dropdown, there is another section called "echoAR" and you should click o
 On the right side of your screen, under the "Inspector" tab, there will be a place for you to place your API-Key. Create an API-Key in your echoAR account, and add a hologram (search waterfall 360). Copy and paste your API-Key into the box where it is located.
 In your files that you dowloaded, under the Assets Folder, click on the echoAR folder, and inside of that, click on the Examples folder. Inside of that, replace the "sample" folder by downloading the two files that are above. 
 In your Unity, press play, and your program should work!
+The "Background menu" will actually give the code for the customization menus that are in the beginning, allowing the user to customize what they view inside their goggles after the customization ends. Directly download everything into the same folder you have everything else and your program should work.
